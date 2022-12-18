@@ -11,6 +11,8 @@ This tutorial uses Medusa v1.6.0. It is not guaranteed that it will work with fu
 ## Prerequisites
 
 - [Node.js at least v14](https://docs.medusajs.com/tutorial/set-up-your-development-environment#nodejs)
+- [Paystack Account with API Secret and Public Key](https://paystack.com/)
+- [MinIO,is used as a file service plugin for Medusa. You must have MinIO installed and running](https://docs.medusajs.com/add-plugins/minio/)
 
 ## How to Install
 
@@ -19,7 +21,7 @@ _You may change these steps per your article._
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/noblefresh/vuejs-ecommerce
+git clone https://github.com/noblefresh/food-restaurant-storefront
 ```
 
 2. Change directory and install dependencies:
