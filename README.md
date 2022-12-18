@@ -27,7 +27,7 @@ git clone https://github.com/noblefresh/food-restaurant-storefront
 2. Change directory and install dependencies:
 
 ```bash
-cd vuejs-ecommerce
+cd food-restaurant-storefront
 npm install
 ```
 
