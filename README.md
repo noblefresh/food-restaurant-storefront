@@ -1,6 +1,6 @@
 # <Building a Food Restaurant Ecommerce Store with Medusa>
 
-This repository is the codebase of tutorial [Creating a Vue.js Ecommerce Store with Medusa](tutorial-link).
+This repository is the codebase of tutorial [Building a Food Restaurant Ecommerce Store with Medusa](tutorial-link).
 
 [Medusa Documentation](https://docs.medusajs.com/) | [Medusa Website](https://medusajs.com/) | [Medusa Repository](https://github.com/medusajs/medusa)
 
