@@ -1,6 +1,6 @@
 # <Building a Food Restaurant Ecommerce Store with Medusa>
 
-This repository is the codebase of tutorial [Creating a Vue.js Ecommerce Store with Medusa](tutorial-link).
+This repository is the codebase of tutorial [Building a Food Restaurant Ecommerce Store with Medusa](tutorial-link).
 
 [Medusa Documentation](https://docs.medusajs.com/) | [Medusa Website](https://medusajs.com/) | [Medusa Repository](https://github.com/medusajs/medusa)
 
@@ -10,10 +10,10 @@ This tutorial uses Medusa v1.7.2 It is not guaranteed that it will work with fut
 
 ## Prerequisites
 
-- [Node.js at least v14](https://docs.medusajs.com/tutorial/set-up-your-development-environment#nodejs)
-- [Paystack Account with API Secret and Public Key](https://paystack.com/)
-- [MinIO,is used as a file service plugin for Medusa. You must have MinIO installed and running](https://docs.medusajs.com/add-plugins/minio/)
-
+- [Node.js ](https://docs.medusajs.com/tutorial/set-up-your-development-environment#nodejs) at least v14
+- [Paystack](https://paystack.com/) Account with API Secret and Public Key
+- [MinIO, ](https://docs.medusajs.com/add-plugins/minio/) is used as a file service plugin for Medusa. You must have MinIO installed and running
+ 
 ## How to Install
 
 _You may change these steps per your article._
@@ -27,7 +27,7 @@ git clone https://github.com/noblefresh/food-restaurant-storefront
 2. Change directory and install dependencies:
 
 ```bash
-cd vuejs-ecommerce
+cd food-restaurant-storefront
 npm install
 ```
 
